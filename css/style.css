@@ -13,7 +13,7 @@ body {
 .oops {
   width: 484px;
   height: 444px;
-  margin: 10% auto;
+  margin: 10% auto 0;
   background: url(../images/oops_2.jpg) 0 0 no-repeat;
   font-size: 0;
 }
@@ -22,7 +22,7 @@ body {
   .oops {
     width: 320px;
     height: 294px;
-    margin: 20% auto;
+    margin: 20% auto 0;
     background: url(../images/oops_1.jpg) 0 0 no-repeat;
   } 
 }
